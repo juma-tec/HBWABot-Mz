@@ -22,7 +22,7 @@ global.creator = "918416093656@s.whatsapp.net" // @ symbol hmaa number hi i phon
 
 global.ownerNumber = ["918416093656@s.whatsapp.net"]// @ symbol hmaa number hi i phone number in thlak rawh
 global.prefa = ['','!','.','#','/']
-global.sessionName = 'session'
+global.sessionName = 'creds.json'
 
 // Sticker Pack Name
 global.packname = "Sticker By"
